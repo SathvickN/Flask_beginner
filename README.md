@@ -20,7 +20,6 @@ We can use HTTP methods in Flask.	HTTP protocol is the foundation of data commun
 5 	DELETE 	It is used to delete all the current representation of the target resource specified in the URL.
 
 
-We can specif
 By default, the Flask route responds to the GET requests. However, this can be altered by providing methods argument to route() decorator.
 Python and HTML code is here.
 
