@@ -8,7 +8,7 @@ We need to have python installed to use flask. Once you have python install flas
 # pip install Flask
 
 We can use HTTP methods in Flask.	HTTP protocol is the foundation of data communication in world wide web. Different methods of data retrieval from specified URL are defined in this protocol. The methods are described down below.
-# GET : Sends data in simple or unencrypted form to the server.
+## GET : Sends data in simple or unencrypted form to the server.
 # HEAD : Sends data in simple or unencrypted form to the server without body.
 
 # PUT : Replaces target resource with the updated content.
